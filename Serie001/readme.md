@@ -11,3 +11,6 @@ Se aprecia dentro de qGis, usando OpenStreetMap de fondo, el archivo SERIE001HOJ
 
 Un índice de las hojas disponibles se presenta a continuación:
 ![Índice de hojas](HojasIndice.png)
+
+Índice de hojas sobre el mapa base
+![Índice de hojas](HojasIndiceImg.png)
