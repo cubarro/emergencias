@@ -8,4 +8,4 @@ Se presenta en el archivo [inundación](Inundacion25al16-06-2025.geojson) con el
 
 El [archivo con extensión qgz](Inundacion25al16-06-2025-map.qgz) es un proyecto de qGis para que se observe esa mancha de inundación sobre el mapa base  de Google satélite con rótulos.
 
-El archivo de [infraestructuras](ChamaZ1-buildings.geojson) tiene una parte de la base de datos de MS Buildigns para esta zona.
+El archivo de [infraestructuras](ChamaZ1-buildings.geojson) tiene una parte de la base de datos de (MS Buildign footprints)[https://github.com/microsoft/GlobalMLBuildingFootprints] para esta zona.
