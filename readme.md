@@ -41,7 +41,7 @@ expuestas, mediante un análisis de intersección espacial.
 -   **Imágenes ópticas pre-evento (fondo):** Worldview-2 (12 de Febrero
     de 2024, 0.5m de resolución).
 
--   **Infraestructuras:** Global ML Building Footprints de Microsoft
+-   **Infraestructuras:** [Global ML Building Footprints](https://github.com/microsoft/GlobalMLBuildingFootprints) de Microsoft
     (más de 1.4 mil millones de huellas de edificios a nivel mundial).
 
 -   **CRS:** EPSG:32618 WGS 84 / UTM zone 18N.
