@@ -1,4 +1,4 @@
-# **Memoria Descriptiva Corta: Análisis Rápido de Áreas Afectadas por Desborde de Ríos en los Andes Venezolanos**
+# **Análisis Rápido de Áreas Afectadas por Desborde de Ríos en los Andes Venezolanos**
 
 ### **1. El Problema**
 
